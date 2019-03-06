@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG2
+    uniqueID: 1255318119
+    locked: 0
+  - name: BG
+    uniqueID: 2394179219
+    locked: 0
+  - name: Floor/Walkable
+    uniqueID: 2151887037
+    locked: 0
+  - name: FG1
+    uniqueID: 3714647455
+    locked: 0
+  - name: Player
+    uniqueID: 1355261395
+    locked: 0
+  - name: FG2
+    uniqueID: 1269920237
+    locked: 0
+  - name: Overlay
+    uniqueID: 3152840945
+    locked: 0
